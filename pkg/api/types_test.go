@@ -1,3 +1,5 @@
+//go:build testonly
+
 /*
 Copyright 2022 The CDEvents Authors
 
@@ -15,8 +17,6 @@ limitations under the License.
 
 SPDX-License-Identifier: Apache-2.0
 */
-
-//go:build testonly
 
 package api_test
 
